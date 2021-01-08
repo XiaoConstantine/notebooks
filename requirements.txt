@@ -1,0 +1,7 @@
+torch==1.7.1
+numpy==1.19.2
+jupyterlab==3.0.1
+matplotlib==3.3.3
+tqdm
+# This is for fixing Ipython 7.19 incompatible with jedi 0.18.0
+jedi==0.17.2
